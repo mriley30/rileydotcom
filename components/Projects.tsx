@@ -92,12 +92,6 @@ const Projects = () => {
                 project.featured ? 'ring-2 ring-primary-500' : ''
               }`}
             >
-              {project.featured && (
-                <div className="absolute -top-3 -right-3 bg-primary-500 text-white text-xs font-medium px-2 py-1 rounded-full">
-                  Featured
-                </div>
-              )}
-
               <h3 className="text-xl font-bold mb-3 text-dark-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-200">
                 {project.title}
               </h3>
@@ -150,6 +144,7 @@ const Projects = () => {
             </motion.div>
           ))}
         </motion.div>
+
       </div>
     </section>
   )
