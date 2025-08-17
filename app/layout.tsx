@@ -17,12 +17,7 @@ export const metadata: Metadata = {
     title: 'Mike Riley - Personal Website',
     description: 'Personal website and portfolio of Mike Riley',
     siteName: 'Mike Riley',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Mike Riley - Personal Website',
-    description: 'Personal website and portfolio of Mike Riley',
-  },
+  }
 }
 
 export default function RootLayout({

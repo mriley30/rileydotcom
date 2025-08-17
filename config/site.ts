@@ -16,7 +16,6 @@ export const siteConfig = {
   socials: {
     github: "https://github.com/mriley30",
     linkedin: "https://www.linkedin.com/in/mike-riley-56b045172/",
-    twitter: "https://twitter.com/yourusername",
     instagram: "https://instagram.com/mriley30",
     youtube: "https://youtube.com/@yourusername",
   },
@@ -84,10 +83,6 @@ export const siteConfig = {
       type: 'website',
       locale: 'en_US',
       siteName: 'Mike Riley',
-    },
-    twitter: {
-      card: 'summary_large_image',
-      creator: '@yourusername',
     },
   },
 }
