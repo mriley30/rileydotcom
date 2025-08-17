@@ -63,7 +63,7 @@ const About = () => {
                 Still, that started my love of computers and technology. I went from a PC, to a PS2, to an Xbox 360, then back to a PC.
                 Over-saturating my life with computers, games, sci-fi, and fantasy, I was sure I wanted to be a game developer. But, 
                 I didn't know for sure until I took my first programming class as a Senior in High School. But, at the same time, despite the 
-                preivous mentions of all things tech, I was a bit of a meathead. I love sports, and I'll always say that if technology somehow evaporated,
+                previous mentions of all things tech, I was a bit of a meathead. I love sports, and I'll always say that if technology somehow evaporated,
                 I would have been a sports performance trainer or football coach. 
               </p>
               <p>
@@ -78,7 +78,7 @@ const About = () => {
                 get to the gym 4 times a week.
               </p>
               <p>
-                Below you'll find more of technical and professional details about me
+                Below you'll find more of technical and professional details about me:
               </p>
             </div>
           </motion.div>
