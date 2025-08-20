@@ -14,8 +14,8 @@ const Footer = () => {
   ]
 
   const socialLinks = [
-    { name: 'GitHub', href: 'https://github.com/yourusername', icon: Github },
-    { name: 'LinkedIn', href: 'https://linkedin.com/in/yourusername', icon: Linkedin },
+    { name: 'GitHub', href: 'https://github.com/mriley30', icon: Github },
+    { name: 'LinkedIn', href: 'https://www.linkedin.com/in/mike-riley-56b045172/', icon: Linkedin },
   ]
 
   const scrollToSection = (href: string) => {
